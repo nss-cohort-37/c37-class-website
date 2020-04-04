@@ -7,6 +7,12 @@
             "link": "https://www.javascript.com/"
         },
         {
+            "id": 2,
+            "name": "React",
+            "image": "react.png",
+            "link": "https://reactjs.org/"
+        },
+        {
             "id": 3,
             "name": "jQuery",
             "image": "jquery.png",
@@ -23,6 +29,12 @@
             "name": "Github",
             "image": "github.png",
             "link": "https://github.com/"
+        },
+        {
+            "id": 6,
+            "name": "JSON",
+            "image": "json.png",
+            "link": "https://www.json.org/json-en.html"
         },
         {
             "id": 7,
@@ -49,16 +61,34 @@
             "link": "https://getbootstrap.com/"
         },
         {
+            "id": 11,
+            "name": "Postman",
+            "image": "postman.png",
+            "link": "https://www.postman.com/"
+        },
+        {
             "id": 12,
             "name": "Firebase",
             "image": "firebase.png",
             "link": "https://firebase.google.com"
         },
         {
+            "id": 13,
+            "name": "DbDiagram",
+            "image": "dbdiagram.png",
+            "link": "https://dbdiagram.io/home"
+        },
+        {
             "id": 14,
             "name": "NPM",
             "image": "npm.png",
             "link": "https://www.npmjs.com/"
+        },
+        {
+            "id": 15,
+            "name": "Figma",
+            "image": "figma.png",
+            "link": "https://www.figma.com/"
         },
         {
             "id": 16,
@@ -101,6 +131,12 @@
             "name": "ES lint",
             "image": "eslint.png",
             "link": "https://eslint.org/"
+        },
+        {
+            "id": 23,
+            "name": "Cloudinary",
+            "image": "cloudinary.png",
+            "link": "https://cloudinary.com/"
         }
     ]
 }
