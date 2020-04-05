@@ -8,9 +8,9 @@
         },
         {
             "id": 2,
-            "name": "AngularJS",
-            "image": "angularjs.png",
-            "link": "https://angularjs.org/"
+            "name": "React",
+            "image": "react.png",
+            "link": "https://reactjs.org/"
         },
         {
             "id": 3,
@@ -32,9 +32,9 @@
         },
         {
             "id": 6,
-            "name": "Grunt",
-            "image": "grunt.png",
-            "link": "https://gruntjs.com/"
+            "name": "JSON",
+            "image": "json.png",
+            "link": "https://www.json.org/json-en.html"
         },
         {
             "id": 7,
@@ -62,9 +62,9 @@
         },
         {
             "id": 11,
-            "name": "Browserify",
-            "image": "browserify.png",
-            "link": "http://browserify.org/"
+            "name": "Postman",
+            "image": "postman.png",
+            "link": "https://www.postman.com/"
         },
         {
             "id": 12,
@@ -74,9 +74,9 @@
         },
         {
             "id": 13,
-            "name": "Materialize",
-            "image": "materialize.png",
-            "link": "http://materializecss.com/"
+            "name": "DbDiagram",
+            "image": "dbdiagram.png",
+            "link": "https://dbdiagram.io/home"
         },
         {
             "id": 14,
@@ -86,9 +86,9 @@
         },
         {
             "id": 15,
-            "name": "SQLite3",
-            "image": "sqlite.png",
-            "link": "https://www.sqlite.org/"
+            "name": "Figma",
+            "image": "figma.png",
+            "link": "https://www.figma.com/"
         },
         {
             "id": 16,
@@ -134,9 +134,9 @@
         },
         {
             "id": 23,
-            "name": "UglifyJs",
-            "image": "uglify.png",
-            "link": "https://www.npmjs.com/package/uglifyjs"
+            "name": "Cloudinary",
+            "image": "cloudinary.png",
+            "link": "https://cloudinary.com/"
         }
     ]
 }
