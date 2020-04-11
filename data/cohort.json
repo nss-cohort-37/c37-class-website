@@ -77,6 +77,45 @@
             "email": "krnorris65@gmail.com",
             "proImg": "KristenNorris.jpg",
             "funImg": "KristenNorris_Fun.jpg"
+        },
+        {
+            "id": 18,
+            "firstName": "Audrey",
+            "lastName": "Borgra",
+            "reelThemIn": "flex",
+            "bio": "Prior to beginning my journey in software development, I worked as an Echovascular Technologist in the healthcare field. I enjoyed the opportunity that healthcare gave me to help others and make a difference in peoples' lives. It allowed me to solve complex problems using logic while working in a team environment. When a family member introduced me to software development, I realized that the tech field would allow me to continue to use those skills I enjoyed, while not being so physically wearing on my body. This started my love of software that has continued to grow with every new technology I encounter.",
+            "github": "https://github.com/aborgra",
+            "linkedIn": "https://www.linkedin.com/in/audreyborgra",
+            "portfolio": "http://www.audreyborgra.com",
+            "email": "audrey.borgra@gmail.com",
+            "proImg": "AudreyBorgra.png",
+            "funImg": "AudreyBorgra.png"
+        },
+        {
+            "id": 19,
+            "firstName": "Namita",
+            "lastName": "Manohar",
+            "reelThemIn": "box",
+            "bio": "I decided to become a developer after teaching 3 years of computer science at the high school level. After simultaneously teaching myself and my students basic coding, my curiosity in this field peaked. I found the problem solving nature of coding to be intellectually rewarding. I am passionate about increasing diversity and representation in the technology field especially after teaching students of color computer science in a field dominated by one race. Nashville Software School was a program that had been on my mind for some time after hearing about it from friends and word of mouth. I decided to make the leap this past November and am looking forward to becoming a member of a software development team.",
+            "github": "https://github.com/namitamanohar",
+            "linkedIn": "https://www.linkedin.com/in/namita-manohar",
+            "portfolio": "http://namitamanohar.github.io",
+            "email": "manohar.namita@gmail.com",
+            "proImg": "NamitaManohar.jpg",
+            "funImg": "NamitaManohar.jpg"
+        },
+        {
+            "id": 20,
+            "firstName": "Jansen",
+            "lastName": "van der Spuy",
+            "reelThemIn": "FLEXBOX!",
+            "bio": "<p>For as long as I can remember, I have had a passion for flexbox.</p>",
+            "github": "https://github.com/jansenv",
+            "linkedIn": "https://www.linkedin.com/in/jansenv",
+            "portfolio": "http://www.jansenv.com",
+            "email": "jansenv44@gmail.com",
+            "proImg": "JansenVanDerSpuy.png",
+            "funImg": "JansenVanDerSpuy.png"
         }
     ]
 }
