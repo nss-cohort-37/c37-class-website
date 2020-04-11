@@ -137,6 +137,12 @@
             "name": "Cloudinary",
             "image": "cloudinary.png",
             "link": "https://cloudinary.com/"
+        },
+        {
+            "id": 24,
+            "name": "MomentJS",
+            "image": "momentjs.png",
+            "link": "https://momentjs.com/"
         }
     ]
 }
