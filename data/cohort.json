@@ -114,8 +114,8 @@
             "linkedIn": "https://www.linkedin.com/in/audreyborgra",
             "portfolio": "http://www.audreyborgra.com",
             "email": "audrey.borgra@gmail.com",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "proImg": "WilliamGreen.png",
+            "funImg": "WilliamGreen.png"
         },
         {
             "id": 10,
@@ -186,14 +186,14 @@
             "id": 15,
             "firstName": "James",
             "lastName": "Nitz",
-            "reelThemIn": "Flexbox!",
-            "bio": "<p>Prior to beginning my journey in software development, I worked as an Echovascular Technologist in the healthcare field. I enjoyed the opportunity that healthcare gave me to help others and make a difference in peoples' lives. It allowed me to solve complex problems using logic while working in a team environment. When a family member introduced me to software development, I realized that the tech field would allow me to continue to use those skills I enjoyed, while not being so physically wearing on my body. This started my love of software that has continued to grow with every new technology I encounter.</p>",
-            "github": "https://github.com/aborgra",
-            "linkedIn": "https://www.linkedin.com/in/audreyborgra",
-            "portfolio": "http://www.audreyborgra.com",
-            "email": "audrey.borgra@gmail.com",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "reelThemIn": "&ldquo;I have woven a parachute out of everything broken&rdquo; <br> -William Stafford",
+            "bio": "",
+            "github": "https://github.com/jamesnitz",
+            "linkedIn": "https://www.linkedin.com/in/jamesnitz/s",
+            "portfolio": "http://jamesnitz.com",
+            "email": "jamesanitz2@gmail.com",
+            "proImg": "JamesNitz.png",
+            "funImg": "JamesNitz.png"
         },
         {
             "id": 16,
@@ -226,13 +226,13 @@
             "firstName": "Kevin",
             "lastName": "Penny",
             "reelThemIn": "Flexbox!",
-            "bio": "<p>Prior to beginning my journey in software development, I worked as an Echovascular Technologist in the healthcare field. I enjoyed the opportunity that healthcare gave me to help others and make a difference in peoples' lives. It allowed me to solve complex problems using logic while working in a team environment. When a family member introduced me to software development, I realized that the tech field would allow me to continue to use those skills I enjoyed, while not being so physically wearing on my body. This started my love of software that has continued to grow with every new technology I encounter.</p>",
-            "github": "https://github.com/aborgra",
-            "linkedIn": "https://www.linkedin.com/in/audreyborgra",
-            "portfolio": "http://www.audreyborgra.com",
-            "email": "audrey.borgra@gmail.com",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "bio": "<p>After years of working as a graphic designer, I began to expand my role into HTML and CSS coding. As that transition happened, I developed a greater interest in code and programming. I decided to begin studying software development full time. I like that coding gives me the opportunity to use my creative background along with my passion for problem solving. I am excited for this new step in my career.</p>",
+            "github": "https://github.com/kevinpenny3",
+            "linkedIn": "https://www.linkedin.com/in/kevinmpenny/",
+            "portfolio": "http://www.keveloper.com",
+            "email": "kevin.penny333@gmail.com",
+            "proImg": "KevinPenny.png",
+            "funImg": "KevinPenny.png"
         },
         {
             "id": 19,
@@ -277,7 +277,7 @@
             "id": 22,
             "firstName": "Jansen",
             "lastName": "van der Spuy",
-            "reelThemIn": "Flexbox!",
+            "reelThemIn": "&ldquo;We're going to need some more coffee.&rdquo; -Agent Cooper",
             "bio": "<p>Growing up, I had always loved learning and solving challenging problems. In the past few years, I've discovered that the best way for me to make a difference is the field of technology and software development -- not only do I get to learn new things every day, I get to apply my knowledge directly towards solving practical problems.</p>",
             "github": "https://github.com/jansenv",
             "linkedIn": "https://www.linkedin.com/in/jansenv",
