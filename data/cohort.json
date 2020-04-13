@@ -81,10 +81,6 @@
             "firstName": "William",
             "lastName": "Green",
             "reelThemIn": "Dog dog = new Dog()",
-            "github": "https://github.com/aborgra",
-            "linkedIn": "https://www.linkedin.com/in/audreyborgra",
-            "portfolio": "http://www.audreyborgra.com",
-            "email": "audrey.borgra@gmail.com",
             "proImg": "WilliamGreen.png",
             "funImg": "BW-WilliamGreen.png"
         },
@@ -92,8 +88,8 @@
             "id": 10,
             "firstName": "Maggie",
             "lastName": "Greene",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "proImg": "MaggieGreene.png",
+            "funImg": "MaggieGreene.png"
         },
         {
             "id": 11,
