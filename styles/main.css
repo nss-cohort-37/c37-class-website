@@ -102,6 +102,11 @@ main {
     box-shadow: silver 6px 6px 10px;
 }
 
+.author {
+    padding-right: 5%;
+    text-align: right;
+}
+
 .col-sm-2.technologies{
     border: none;
     border-radius: none;
