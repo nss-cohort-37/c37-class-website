@@ -50,9 +50,7 @@
         {
             "id": 5,
             "firstName": "Tyler",
-            "lastName": "Davis",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "lastName": "Davis"
         },
         {
             "id": 6,
@@ -215,8 +213,8 @@
             "firstName": "Eli",
             "lastName": "Tamez",
             "reelThemIn": "&ldquo;All generalizations are false, including this one.&rdquo;<p class=\"author\">― Mark Twain</p>",
-            "github": "github.com/etamez173",
-            "linkedIn": "www.linkedin.com/in/tamezeli/",
+            "github": "http://github.com/etamez173",
+            "linkedIn": "http://www.linkedin.com/in/tamezeli/",
             "portfolio": "https://etamez173.github.io/",
             "email": "elitamez17@gmail.com",
             "proImg": "EliTamez.png",
@@ -253,7 +251,7 @@
             "reelThemIn": "When in doubt...Be Yoncé",
             "github": "https://github.com/ajawashington",
             "linkedIn": "https://www.linkedin.com/in/aja-b-washington/",
-            "portfolio": "https://ajawashington.github.io./",
+            "portfolio": "https://ajawashington.github.io/",
             "email": "aja.washington13@gmail.com",
             "proImg": "AjaWashington.png",
             "funImg": "BW-AjaWashington.png"
