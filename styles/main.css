@@ -7,7 +7,7 @@ html, body {
     overflow-x: hidden;
     /* background: url("../images/background.jpg") fixed no-repeat;
     background-size: 100%; */
-    background-color: #efefef
+    background-color: #efefef;
 }
 
 blockquote{
@@ -33,12 +33,12 @@ blockquote{
 
 #cohort22{
     display: inline-block;
-    color: #238193;
+    color: goldenrod;
 }
 
 #jumbheader{
     box-shadow: 2px 2px 2px rgb(167, 166, 166);
-    background-color: #238193!important;
+    background-color: goldenrod!important;
     color: lightgray;
 
 }
@@ -89,12 +89,13 @@ main {
 }
 
 .col-md-3.cohortMems{
+    color: white;
     border: 1px solid lightgray;
     border-radius:10px;
     box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
-    margin: 10px;
+    margin: 45px;
     margin-bottom: 25px;
-    background: white;
+    background: #3d3d3d;
 }
 
 .col-sm-2.technologies{
@@ -137,6 +138,8 @@ main {
 
 .modal-body{
     display: block;
+    color: white;
+    background-color: #3d3d3d;
   }
 
   .studentContact{
@@ -148,16 +151,22 @@ main {
   }
 
   .contactIcons{
-      color: #238193;
+      color: white;
   }
   .contactIcons:hover{
+      color: goldenrod;
       transform: scale(1.2);
   }
 
   .modal-header{
-    background-color: lightgray!important;
-    color: #238193;
+    background-color: black!important;
+    color: goldenrod;
   }
+
+  .modal-content {
+    background-color: #3d3d3d;
+    width: 100%;
+}
 
   .modal-body img{
     width: 50%;
@@ -173,7 +182,7 @@ main {
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
-    background-color: #238193!important;
+    background-color: goldenrod!important;
     color: white;
 }
 
@@ -189,13 +198,13 @@ button{
     cursor: pointer;
 }
 .btn-outline-primary{
-    color: #238193!important;
-    border-color: #238193!important;
+    color: goldenrod!important;
+    border-color: goldenrod!important;
 }
 
 .btn-outline-primary:hover{
     color: white!important;
-    background-color: #238193!important;
+    background-color: goldenrod!important;
 }
 
 /* adjusts size of contact icons depending on size of card */
@@ -236,6 +245,7 @@ button{
         display: block;
       }
       .modal-content {
+        background-color: #3d3d3d;
         width: 100%;
     }
        .modal-body img{
