@@ -179,8 +179,8 @@
             "linkedIn": "https://www.linkedin.com/in/william-metcalf/",
             "portfolio": "https://williammetcalf-37.github.io/",
             "email": "william.g.metcalf@gmail.com",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "proImg": "WillyMetcalf.png",
+            "funImg": "WillyMetcalf.png"
         },
         {
             "id": 15,
@@ -303,7 +303,6 @@
             "id": 24,
             "firstName": "Jasmine",
             "lastName": "Williams",
-            "reelThemIn": "",
             "bio": "<p>I'm a software developer and a lover of languages, learning and traveling. I chose software development because I love to create things that are beautiful, meaningful and useful. I'm inspired by the endless opportunity to be challenged, to learn and to solve problems, but I am also choosing it for the community of people who want to help others and make things better with code. </p>",
             "github": "https://github.com/williaj615",
             "linkedIn": "https://www.linkedin.com/in/jwilliams1028/",
