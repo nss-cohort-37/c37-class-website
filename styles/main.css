@@ -7,7 +7,7 @@ html, body {
     overflow-x: hidden;
     /* background: url("../images/background.jpg") fixed no-repeat;
     background-size: 100%; */
-    background-color: silver;
+    background-color: whitesmoke;
 }
 
 blockquote{
@@ -98,6 +98,10 @@ main {
     background: #3d3d3d;
 }
 
+.col-md-3.cohortMems:hover{
+    box-shadow: silver 6px 6px 10px;
+}
+
 .col-sm-2.technologies{
     border: none;
     border-radius: none;
@@ -119,7 +123,7 @@ main {
 
   .techs:hover{
     transform: scale(1.5);
-    transition-duration: 0.3s;
+    transition-duration: 0.5s;
   }
 
 .words{
