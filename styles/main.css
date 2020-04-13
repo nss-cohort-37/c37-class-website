@@ -33,12 +33,12 @@ blockquote{
 
 #cohort22{
     display: inline-block;
-    color: goldenrod;
+    color: #3d3d3d;
 }
 
 #jumbheader{
     box-shadow: 2px 2px 2px rgb(167, 166, 166);
-    background-color: goldenrod!important;
+    background-color: #3d3d3d!important;
     color: lightgray;
 
 }
@@ -199,7 +199,7 @@ main {
 .navbar.navbar-light.bg-light.footer{
     margin-top:10px;
     font-size: 1em;
-    background-color: goldenrod!important;
+    background-color: #3d3d3d!important;
     color: white;
 }
 
