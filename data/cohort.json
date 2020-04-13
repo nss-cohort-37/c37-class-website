@@ -95,7 +95,6 @@
             "id": 11,
             "firstName": "Namita",
             "lastName": "Manohar",
-            "reelThemIn": "Flexbox!",
             "github": "https://github.com/namitamanohar",
             "linkedIn": "https://www.linkedin.com/in/namita-manohar",
             "portfolio": "http://namitamanohar.github.io",
@@ -107,8 +106,8 @@
             "id": 12,
             "firstName": "Phillip",
             "lastName": "Martin",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "proImg": "PhillipMartin.png",
+            "funImg": "PhillipMartin.png"
         },
         {
             "id": 13,
@@ -162,8 +161,8 @@
             "id": 17,
             "firstName": "Rebecca",
             "lastName": "Patek",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "proImg": "RebeccaPatek.png",
+            "funImg": "RebeccaPatek.png"
         },
         {
             "id": 18,
@@ -181,8 +180,8 @@
             "id": 19,
             "firstName": "Case",
             "lastName": "Scally",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "proImg": "CaseScally.png",
+            "funImg": "CaseScally.png"
         },
         {
             "id": 20,
@@ -193,8 +192,8 @@
             "linkedIn": "www.linkedin.com/in/tamezeli/",
             "portfolio": "https://etamez173.github.io/",
             "email": "elitamez17@gmail.com",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "proImg": "EliTamez.png",
+            "funImg": "EliTamez.png"
         },
         {
             "id": 21,
@@ -205,14 +204,14 @@
             "linkedIn": "http://linkedin.com/in/Spencer-Truett/",
             "portfolio": "http://spencertruett.com",
             "email": "struett.developer@gmail.com",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "proImg": "SpencerTruett.png",
+            "funImg": "SpencerTruett.png"
         },
         {
             "id": 22,
             "firstName": "Jansen",
             "lastName": "van der Spuy",
-            "reelThemIn": "&ldquo;We're going to need some more coffee.&rdquo;<p class=\"author\">―Agent Cooper</p>",
+            "reelThemIn": "&ldquo;We're going to need some more coffee.&rdquo;<p class=\"author\">― Agent Cooper</p>",
             "github": "https://github.com/jansenv",
             "linkedIn": "https://www.linkedin.com/in/jansenv",
             "portfolio": "http://www.jansenv.com",
