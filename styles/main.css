@@ -89,6 +89,8 @@ main {
 }
 
 .col-md-3.cohortMems{
+    display: flex;
+    flex-direction: column;
     color: white;
     border: 1px solid lightgray;
     border-radius:10px;
@@ -158,11 +160,11 @@ main {
   }
 
   .studentContact{
-      text-align: center;
       display: flex;
+      align-items: flex-end;
+      text-align: center;
       justify-content: space-evenly;
       -webkit-justify-content: space-evenly;
-      margin-bottom: .75rem;
   }
 
   .contactIcons{
@@ -208,6 +210,7 @@ main {
 button{
     cursor: pointer;
 }
+
 .btn-outline-primary{
     color: goldenrod!important;
     border-color: goldenrod!important;
