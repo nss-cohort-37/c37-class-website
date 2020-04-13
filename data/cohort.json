@@ -23,8 +23,8 @@
             "linkedIn": "https://www.linkedin.com/in/audreyborgra",
             "portfolio": "http://www.audreyborgra.com",
             "email": "audrey.borgra@gmail.com",
-            "proImg": "BW-AudreyBorgra.png",
-            "funImg": "AudreyBorgra.png"
+            "proImg": "AudreyBorgra.png",
+            "funImg": "BW-AudreyBorgra.png"
         },
         {
             "id": 3,
@@ -69,14 +69,14 @@
             "id": 6,
             "firstName": "Garrett",
             "lastName": "Freshwater",
-            "reelThemIn": "Flexbox!",
-            "bio": "<p>Prior to beginning my journey in software development, I worked as an Echovascular Technologist in the healthcare field. I enjoyed the opportunity that healthcare gave me to help others and make a difference in peoples' lives. It allowed me to solve complex problems using logic while working in a team environment. When a family member introduced me to software development, I realized that the tech field would allow me to continue to use those skills I enjoyed, while not being so physically wearing on my body. This started my love of software that has continued to grow with every new technology I encounter.</p>",
-            "github": "https://github.com/aborgra",
-            "linkedIn": "https://www.linkedin.com/in/audreyborgra",
-            "portfolio": "http://www.audreyborgra.com",
-            "email": "audrey.borgra@gmail.com",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "reelThemIn": "The answer is always flexbox.",
+            "bio": "<p>Before my journey into software development, I worked in the restaurant and hospitality industry. I enjoyed the opportunity that I was given to help others and make the slightest difference in peoples' lives through food and laughter. Managing a restaurant allowed me the opportunity to solve problems small and large using my ability to assist my employees with anything they needed while working in an extremely fast paced stressful environment. Eventually I came to the conclusion that I wanted a better quality of life for myself and my family. Having always loved computers and solving problems led me to Software development. Once I realized that software development would allow me to continue to use those team oriented skills, while securing a better life for my family, I had made up my mind. With my innate desire to learn and excel in a work environment that challenges me to continually learn new skills, I believe I am the energetic, excited, and productive team member you are looking for.</p>",
+            "github": "https://github.com/garrettfreshwater-nss",
+            "linkedIn": "https://www.linkedin.com/in/garrettfreshwater/",
+            "portfolio": "https://garrettfreshwater-nss.github.io/",
+            "email": "garrettfreshwater@gmail.com",
+            "proImg": "GarrettFreshwater.png",
+            "funImg": "BW-GarrettFreshwater.png"
         },
         {
             "id": 7,
@@ -114,8 +114,8 @@
             "linkedIn": "https://www.linkedin.com/in/audreyborgra",
             "portfolio": "http://www.audreyborgra.com",
             "email": "audrey.borgra@gmail.com",
-            "proImg": "BW-WilliamGreen.png",
-            "funImg": "WilliamGreen.png"
+            "proImg": "WilliamGreen.png",
+            "funImg": "BW-WilliamGreen.png"
         },
         {
             "id": 10,
@@ -140,8 +140,8 @@
             "linkedIn": "https://www.linkedin.com/in/namita-manohar",
             "portfolio": "http://namitamanohar.github.io",
             "email": "manohar.namita@gmail.com",
-            "proImg": "BW-NamitaManohar.png",
-            "funImg": "NamitaManohar.png"
+            "proImg": "NamitaManohar.png",
+            "funImg": "BW-NamitaManohar.png"
         },
         {
             "id": 12,
@@ -166,8 +166,8 @@
             "linkedIn": "https://www.linkedin.com/in/jonathan-coffey-may/",
             "portfolio": "http://coffey-may.github.io",
             "email": "jcoffeymay6@gmail.com",
-            "proImg": "BW-CoffeyMay.png",
-            "funImg": "CoffeyMay.png"
+            "proImg": "CoffeyMay.png",
+            "funImg": "BW-CoffeyMay.png"
         },
         {
             "id": 14,
@@ -179,8 +179,8 @@
             "linkedIn": "https://www.linkedin.com/in/william-metcalf/",
             "portfolio": "https://williammetcalf-37.github.io/",
             "email": "william.g.metcalf@gmail.com",
-            "proImg": "BW-WillyMetcalf.png",
-            "funImg": "WillyMetcalf.png"
+            "proImg": "WillyMetcalf.png",
+            "funImg": "BW-WillyMetcalf.png"
         },
         {
             "id": 15,
@@ -192,8 +192,8 @@
             "linkedIn": "https://www.linkedin.com/in/jamesnitz/s",
             "portfolio": "http://jamesnitz.com",
             "email": "jamesanitz2@gmail.com",
-            "proImg": "BW-JamesNitz.png",
-            "funImg": "JamesNitz.png"
+            "proImg": "JamesNitz.png",
+            "funImg": "BW-JamesNitz.png"
         },
         {
             "id": 16,
@@ -205,8 +205,8 @@
             "linkedIn": "https://www.linkedin.com/in/holdenwparker",
             "portfolio": "https://holdenwparker.com/",
             "email": "parkerholdenw@gmail.com",
-            "proImg": "BW-HoldenParker.png",
-            "funImg": "HoldenParker.png"
+            "proImg": "HoldenParker.png",
+            "funImg": "BW-HoldenParker.png"
         },
         {
             "id": 17,
@@ -231,8 +231,8 @@
             "linkedIn": "https://www.linkedin.com/in/kevinmpenny/",
             "portfolio": "http://www.keveloper.com",
             "email": "kevin.penny333@gmail.com",
-            "proImg": "BW-KevinPenny.png",
-            "funImg": "KevinPenny.png"
+            "proImg": "KevinPenny.png",
+            "funImg": "BW-KevinPenny.png"
         },
         {
             "id": 19,
@@ -264,12 +264,12 @@
             "id": 21,
             "firstName": "Spencer",
             "lastName": "Truett",
-            "reelThemIn": "Flexbox!",
-            "bio": "<p>Prior to beginning my journey in software development, I worked as an Echovascular Technologist in the healthcare field. I enjoyed the opportunity that healthcare gave me to help others and make a difference in peoples' lives. It allowed me to solve complex problems using logic while working in a team environment. When a family member introduced me to software development, I realized that the tech field would allow me to continue to use those skills I enjoyed, while not being so physically wearing on my body. This started my love of software that has continued to grow with every new technology I encounter.</p>",
-            "github": "https://github.com/aborgra",
-            "linkedIn": "https://www.linkedin.com/in/audreyborgra",
-            "portfolio": "http://www.audreyborgra.com",
-            "email": "audrey.borgra@gmail.com",
+            "reelThemIn": "&ldquo;Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live&rdquo; ―John Woods ",
+            "bio": "<p>Born and raised in middle Tennessee, I began my college career at David Lipscomb University with the intentions of becoming a doctor. After several years of soul-searching, I started teaching music to high school students locally. Ironically, it’s one of those students who led me to Nashville Software School and, ultimately, my love of coding.<br><br>I decided to try out a coding &ldquo;jumpstart&rdquo; at NSS, and I was immediately hooked. It was then that I jumped into coding with both feet and never looked back. Coding has been a non-stop journey of wondrous new endeavors, ambitious challenges to overcome, and marvelous discoveries to uncover. I've learned that the world of coding is filled with a never-ending plethora of new things to discover, which excites me to no end!</p>",
+            "github": "https://github.com/SpencerTruett",
+            "linkedIn": "http://linkedin.com/in/Spencer-Truett/",
+            "portfolio": "http://spencertruett.com",
+            "email": "struett.developer@gmail.com",
             "proImg": "DogButtPlaceholder.jpg",
             "funImg": "DogButtPlaceholder.jpg"
         },
@@ -283,8 +283,8 @@
             "linkedIn": "https://www.linkedin.com/in/jansenv",
             "portfolio": "http://www.jansenv.com",
             "email": "jansenv44@gmail.com",
-            "proImg": "BW-JansenVanDerSpuy.png",
-            "funImg": "JansenVanDerSpuy.png"
+            "proImg": "JansenVanDerSpuy.png",
+            "funImg": "BW-JansenVanDerSpuy.png"
         },
         {
             "id": 23,
@@ -296,8 +296,8 @@
             "linkedIn": "https://www.linkedin.com/in/aja-b-washington/",
             "portfolio": "https://ajawashington.github.io./",
             "email": "aja.washington13@gmail.com",
-            "proImg": "BW-AjaWashington.png",
-            "funImg": "AjaWashington.png"
+            "proImg": "AjaWashington.png",
+            "funImg": "BW-AjaWashington.png"
         },
         {
             "id": 24,
@@ -308,8 +308,8 @@
             "linkedIn": "https://www.linkedin.com/in/jwilliams1028/",
             "portfolio": "http://jasminewilliams.dev",
             "email": "jasminewilliams2017@gmail.com",
-            "proImg": "BW-JasmineWilliams.png",
-            "funImg": "JasmineWilliams.png"
+            "proImg": "JasmineWilliams.png",
+            "funImg": "BW-JasmineWilliams.png"
         },
         {
             "id": 25,
@@ -321,8 +321,8 @@
             "linkedIn": "https://www.linkedin.com/in/onteriowright",
             "portfolio": "https://www.onteriowright.com/",
             "email": "onteriowright@gmail.com",
-            "proImg": "BW-OnterioWright.png",
-            "funImg": "OnterioWright.png"
+            "proImg": "OnterioWright.png",
+            "funImg": "BW-OnterioWright.png"
         }
     ]
 }
