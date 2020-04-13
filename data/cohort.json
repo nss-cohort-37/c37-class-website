@@ -316,14 +316,14 @@
             "id": 25,
             "firstName": "Onterio",
             "lastName": "Wright",
-            "reelThemIn": "Flexbox!",
-            "bio": "<p>Prior to beginning my journey in software development, I worked as an Echovascular Technologist in the healthcare field. I enjoyed the opportunity that healthcare gave me to help others and make a difference in peoples' lives. It allowed me to solve complex problems using logic while working in a team environment. When a family member introduced me to software development, I realized that the tech field would allow me to continue to use those skills I enjoyed, while not being so physically wearing on my body. This started my love of software that has continued to grow with every new technology I encounter.</p>",
-            "github": "https://github.com/aborgra",
-            "linkedIn": "https://www.linkedin.com/in/audreyborgra",
-            "portfolio": "http://www.audreyborgra.com",
-            "email": "audrey.borgra@gmail.com",
-            "proImg": "DogButtPlaceholder.jpg",
-            "funImg": "DogButtPlaceholder.jpg"
+            "reelThemIn": "&ldquo;I am a hope that I can actually see. For me, hope is everywhere and something that I can genuinely believe in. Although I have to work twice as hard to get what I want, I still have the power to shape my life into something wonderful. I am my ancestors' wildest dreams.&rdquo; -Brianna James",
+            "bio": "<p>I've always loved technology, and have had a passion for being creative, and solving problems. I became a Barber to use my creative skills and although I was successful, I still felt like I wasn't fulfilling my purpose. I wanted to build things that would be helpful to everyone. A client introduced me to JavaScript, which sparked my interest in Software Development. I started teaching myself to code for a year before I came across Nashville Software School. I've gained experienced as a Software Engineer which is complemented by my demonstrated history in problem solving. Skilled in JavaScript, React, Angular, Node.js and C#/.Net. I'm a strong engineering professional that's passionate about helping people and providing solutions to everyday problems.</p>",
+            "github": "https://github.com/onteriowright",
+            "linkedIn": "https://www.linkedin.com/in/onteriowright",
+            "portfolio": "https://www.onteriowright.com/",
+            "email": "onteriowright@gmail.com",
+            "proImg": "OnterioWright.png",
+            "funImg": "OnterioWright.png"
         }
     ]
 }
