@@ -1,5 +1,5 @@
 p {
-    font-family: 'Work Sans', 'Times';
+    font-family: 'Roboto', 'Times';
 }
 
 
@@ -101,7 +101,7 @@ main {
     margin: 45px;
     margin-bottom: 25px;
     background: #3d3d3d;
-    filter: grayscale(100%)
+    filter: grayscale(35%);
 }
 
 .col-md-3.cohortMems:hover{
