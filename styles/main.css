@@ -2,6 +2,12 @@ p {
     font-family: 'Roboto', 'Times';
 }
 
+#overlay.currently-loading img { 
+    display: block; 
+    width: 100%;
+    heigth: 100%;
+}
+
 
 html, body {
     max-width: 100%;
