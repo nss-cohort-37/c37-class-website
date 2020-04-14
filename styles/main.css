@@ -183,7 +183,6 @@ main {
       font-size: 2.5rem;
   }
   .contactIcons:hover{
-      color: goldenrod;
       transform: scale(1.2);
   }
 
