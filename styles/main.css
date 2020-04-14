@@ -100,6 +100,12 @@ main {
     margin-bottom: 25px;
     background: #3d3d3d;
     font-size: 1.10rem;
+    filter: grayscale(100%)
+}
+
+.col-md-3.cohortMems:hover{
+    filter: none;
+    transition: 100ms ease-in;
 }
 
 .card-text{
@@ -151,12 +157,6 @@ main {
 .card-img-top{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    filter: grayscale(100%);
-  }
-
-  .card-img-top:hover{
-      transition: 0.5s ease-in;
-      filter: none;
   }
 
 .col,
