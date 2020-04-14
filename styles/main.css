@@ -1,6 +1,7 @@
 p {
-  font-family: 'Barlow', sans-serif;
+    font-family: 'Work Sans', 'Times';
 }
+
 
 html, body {
     max-width: 100%;
@@ -28,7 +29,7 @@ blockquote{
     display: flex;
 }
 .nav-spacing {
-  margin-right: 2em;
+    margin-right: 2em;
 }
 
 #cohort22{
@@ -40,7 +41,7 @@ blockquote{
     box-shadow: 2px 2px 2px rgb(167, 166, 166);
     background-color: #3d3d3d!important;
     color: lightgray;
-
+    
 }
 .header-text{
     margin: 0 auto;
@@ -48,10 +49,11 @@ blockquote{
     font-weight: bold;
     height: 50px;
     color: white;
-
+    
 }
 
 .title-font {
+    font-family: 'Work Sans', serif;
     font-size: 1.65rem;
     text-align: center;
     vertical-align: middle;
@@ -99,7 +101,6 @@ main {
     margin: 45px;
     margin-bottom: 25px;
     background: #3d3d3d;
-    font-size: 1.10rem;
     filter: grayscale(100%)
 }
 

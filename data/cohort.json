@@ -236,7 +236,7 @@
         {
             "id": 22,
             "firstName": "Jansen",
-            "lastName": "van der Spuy",
+            "lastName": "<br>van der Spuy",
             "reelThemIn": "&ldquo;We're going to need some more coffee.&rdquo;<p class=\"author\">― Agent Cooper</p>",
             "github": "https://github.com/jansenv",
             "linkedIn": "https://www.linkedin.com/in/jansenv",
