@@ -98,7 +98,7 @@ main {
     border: 1px solid lightgray;
     border-radius:10px;
     box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
-    margin: 45px;
+    margin: 30px;
     margin-bottom: 25px;
     background: #3d3d3d;
     filter: grayscale(35%);
@@ -107,11 +107,7 @@ main {
 .col-md-3.cohortMems:hover{
     filter: none;
     transition: 100ms ease-in;
-}
-
-.card-text{
-    padding: 0px 10px;
-}
+}   
 
 .col-md-3.cohortMems:hover{
     box-shadow: silver 6px 6px 10px;
@@ -143,7 +139,7 @@ main {
 
   .techs:hover{
     transform: scale(1.5);
-    transition-duration: 0.5s;
+    transition-duration: 0.2s;
   }
 
 .words{
