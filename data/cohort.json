@@ -123,6 +123,9 @@
             "id": 12,
             "firstName": "Phillip",
             "lastName": "Martin",
+            "github": "https://github.com/philipDmartin",
+            "linkedIn": "https://www.linkedin.com/in/philip-martin-2001/",
+            "email": "philipnathan788@gmail.com",
             "proImg": "PhillipMartin.png",
             "funImg": "PhillipMartin.png"
         },
@@ -189,7 +192,6 @@
             "id": 18,
             "firstName": "Kevin",
             "lastName": "Penny",
-            "reelThemIn": "",
             "github": "https://github.com/kevinpenny3",
             "linkedIn": "https://www.linkedin.com/in/kevinmpenny/",
             "portfolio": "http://www.keveloper.com",
