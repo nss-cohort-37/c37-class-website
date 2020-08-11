@@ -97,31 +97,37 @@ main {
     text-transform: uppercase;
 }
 
-.col-md-3.cohortMems{
+
+.col-lg-3.cohortMems{
     display: flex;
     flex-direction: column;
     color: white;
     border: 1px solid lightgray;
     border-radius:10px;
     box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
-    margin: 30px;
+    margin: .75em;
     margin-bottom: 25px;
     background: #3d3d3d;
     filter: grayscale(35%);
 }
 
-.col-md-3.cohortMems:hover{
+.col-lg-3.cohortMems:hover{
     filter: none;
     transition: 100ms ease-in;
 }   
 
-.col-md-3.cohortMems:hover{
+.col-lg-3.cohortMems:hover{
     box-shadow: silver 6px 6px 10px;
+}
+.card-text {
+    margin-bottom: .25em;
+    text-align: center;
 }
 
 .author {
     padding-right: 5%;
-    text-align: right;
+    text-align: center;
+    padding-bottom: .5em;
 }
 
 .col-sm-2.technologies{
@@ -176,17 +182,25 @@ main {
 
   .studentContact{
       display: flex;
-      align-items: flex-end;
       text-align: center;
       justify-content: space-evenly;
+      margin-right: 2.5em;
+      margin-top: 1.5em;
+
   }
 
   .contactIcons{
       color: white;
-      font-size: 2.5rem;
+      /* font-size: 2.5rem; */
+      flex: end;
+      position: absolute;
+      bottom: 5px;
   }
   .contactIcons:hover{
       transform: scale(1.2);
+  }
+  .svg-inline {
+      margin: 5em;
   }
 
   .modal-header{
